@@ -18,7 +18,7 @@ _You need to install nodejs and npm_
 _First clone the repository_
 
 ```
-git clone https://github.com/janpc/Immfly-IAG-Frontend-test.git
+git clone https://github.com/janpc/github-searcher.git
 ```
 
 _Create a [Github personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and add it to the .env file_
